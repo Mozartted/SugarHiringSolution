@@ -3,7 +3,6 @@
 Created: Jun 4, 2021 1:29 AM
 Created by: Mozart Osita
 Last edited: Jun 5, 2021 10:34 PM
-Projects: https://www.notion.so/Get-a-new-remote-job-5f7cf8868de643a4b21c15c07ad76508
 
 This documentation provides all insights into my thought process while working on the problem. As well as defining my solution paths and informing my descision making process.
 
