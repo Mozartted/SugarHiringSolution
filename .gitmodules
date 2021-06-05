@@ -1,0 +1,9 @@
+[submodule "sugar-test-graphql-api"]
+	path = sugar-test-graphql-api
+	url = https://github.com/Mozartted/sugar-test-graphql-api
+[submodule "Sugar-admin"]
+	path = Sugar-admin
+	url = https://github.com/Mozartted/Sugar-admin
+[submodule "sugar-react-native"]
+	path = sugar-react-native
+	url = https://github.com/Mozartted/sugar-react-native
